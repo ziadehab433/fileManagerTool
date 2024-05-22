@@ -1,0 +1,2 @@
+Process ID	Burst Time	Priority
+1		5		3
